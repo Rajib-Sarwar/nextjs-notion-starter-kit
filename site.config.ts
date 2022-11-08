@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '4a8db82f5aae42aabc027174a522cc28',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Rajib Sarwar',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'rajib-sarwar.transitivebullsh.it',
   author: 'Rajib Sarwar',
 
   // open graph metadata (optional)
