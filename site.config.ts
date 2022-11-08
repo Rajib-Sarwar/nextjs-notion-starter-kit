@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Rajib Sarwar',
-  domain: 'RajibSarwar.org',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Rajib Sarwar',
 
   // open graph metadata (optional)
